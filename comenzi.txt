@@ -1,0 +1,24 @@
+Comanda clientului Florescu Ana: 
+Produsul portocale a fost achizitionat din magazinul Mega Image la pretul: 7.99
+Produsul banane a fost achizitionat din magazinul Auchan la pretul: 3.99
+Produsul paste a fost achizitionat din magazinul Auchan la pretul: 5.15
+Produsul orez a fost achizitionat din magazinul Lidl la pretul: 6.2
+Produsul inghetata nu a putut fi achizitionat.
+Total: 23.33
+ 
+Comanda clientului Popescu Dan: 
+Produsul orez nu a putut fi achizitionat.
+Produsul portocale a fost achizitionat din magazinul Mega Image la pretul: 7.99
+Produsul ciocolata a fost achizitionat din magazinul Mega Image la pretul: 5.0
+Produsul banane a fost achizitionat din magazinul Auchan la pretul: 3.49
+Produsul cirese nu a putut fi achizitionat.
+Total: 16.48
+ 
+Comanda clientului Ionescu Maria: 
+Produsul iaurt a fost achizitionat din magazinul Lidl la pretul: 1.5
+Produsul paine a fost achizitionat din magazinul Lidl la pretul: 3.0
+Produsul cafea a fost achizitionat din magazinul Lidl la pretul: 4.2
+Produsul zahar a fost achizitionat din magazinul Lidl la pretul: 2.78
+Produsul orez a fost achizitionat din magazinul Lidl la pretul: 5.0
+Total: 16.48
+ 
